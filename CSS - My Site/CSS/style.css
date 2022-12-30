@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Raleway', serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'pacifico', cursive;
+}
+h2{
+    font-family: 'Raleway';
+}
+h3{
+    font-family: 'Raleway';
+}
+#top {
+    background-color: wheat;
+    position: relative;
+    padding-top: 100px;
+}
+#middle{
+    background-color: hotpink;
+    height: 300px;       
+    width: 300px;
+    border: solid 20px;
+    margin-left: 340px;
+}
+#bottom{
+    background-color: forestgreen;
+    height: 300px;       
+    width: 300px;
+    border: solid 10px;
+    margin-left: 680px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    margin: 50px;
+}
+.intro {
+    top: 80px;
+}
+span{
+    text-decoration: underline;
+}
+.mountain{
+    margin-bottom: 0;
+}
+.skill{
+    height: 200px;
+}
